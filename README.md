@@ -34,11 +34,15 @@ The main challenge I encountered is the lack of detailed information on the camp
 
 ## Results
 ### Conclusions
+Two of the conclusions which can be formed as a result of data from "Outcomes based on Launch Date" are:
+1. Launching a theater campaign in May brings the highest success rate.
+2. Launching a theater campaign in December brings the highest failure rate.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+One conclusion which can be made as a result of data from “Outcomes based on Goals” is that a theater campaign has the highest percent of success if the campaign is less than $1,000.  There is still high probability up to $5k, but then declines from there until an anomaly within the $35k to $45K goal range.
 
-- What can you conclude about the Outcomes based on Goals?
 ### Limitations of the Dataset
-- What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+The current dataset is limited in its details, amount of data, and info on those who have funded campaigns.  There are many data elements which would be helpful in providing more conclusive analysis on the kickstarter data.  Breaking down plays by genre, narrowing the location of the campaign, and adding in additional crowdfunding sources would be a start.  Additionally, obtaining demographic information for those who have funded campaigns would also be useful.
+
+
+Another table I recommend creating would be combining the result of the timing of the campaigns along with the goal ranges.  This would allow us to determine best time to start campaigns of different goal magnitudes. 
