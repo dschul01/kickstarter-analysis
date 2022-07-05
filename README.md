@@ -10,5 +10,8 @@ The pivot table was utilized to create the line chart below to illustrate the ca
 * More successful campaigns started between the months of May through July although volumes decrease almost every month after the May peak.  
 * Failed campaigns follow a similar trendline as successful campaigns but not to the same degree.
 * Canceled campaigns are flat indicating campaign start does not influence this outcome.
-
+* Decisive evidence correlating campaign start month to outcome can not be made from this chart alone 
+ 
 Conclusions and limitations are discussed later in this evaluation.
+
+![Theater_Outcomes_vs_Launch](https://github.com/dschul01/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
