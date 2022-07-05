@@ -13,7 +13,6 @@ The pivot table was utilized to create the line chart below to illustrate the ca
 * Decisive evidence correlating campaign start month to outcome can not be made from this chart alone 
  
 Conclusions and limitations are discussed later in this evaluation.
-https://github.com/dschul01/kickstarter-analysis/edit/main/README.md#results
 
 ![Theater_Outcomes_vs_Launch](https://github.com/dschul01/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
