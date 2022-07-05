@@ -10,4 +10,5 @@ The pivot table was utilized to create the line chart below to illustrate the ca
 * More successful campaigns started between the months of May through July although volumes decrease almost every month after the May peak.  
 * Failed campaigns follow a similar trendline as successful campaigns but not to the same degree.
 * Canceled campaigns are flat indicating campaign start does not influence this outcome.
+
 Conclusions and limitations are discussed later in this evaluation.
